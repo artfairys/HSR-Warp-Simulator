@@ -272,7 +272,7 @@
 		"addCustom": "添加自定义曲目",
 		"addTrack": "添加曲目",
 		"removeTrack": "移除曲目",
-		"duplicatedTrack": '"{trackTitle}"已经在"{albumName}"列出',
+		"duplicatedTrack": "\"{trackTitle}\" 已经在 \"{albumName}\" 中列出",
 		"failedToFetch": "获取曲目信息失败"
 	}
 }
