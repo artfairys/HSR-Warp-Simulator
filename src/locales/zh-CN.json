@@ -237,7 +237,7 @@
 		"checkingKey": "验证保存密钥",
 		"verifyFail": "验证密钥失败，检查你的连接！",
 		"keyExpired": "密钥已过期",
-		"keyExpiredNotice": "你的密钥："{key}" 已经过期：{date}.",
+		"keyExpiredNotice": "你的密钥: \"{key}\" 已经过期 {date}.",
 		"invalidKey": "无效的密钥！",
 		"noKey": "没有密钥？",
 		"getNewKey": "在这里获取一个！",
