@@ -72,7 +72,7 @@
 		background-color: rgba(0, 0, 0, 0.3);
 		backdrop-filter: blur(10px);
 		z-index: 500;
-		display: 0;
+		display: none;
 		justify-content: center;
 		align-items: center;
 	}
